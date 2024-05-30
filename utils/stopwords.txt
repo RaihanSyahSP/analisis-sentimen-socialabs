@@ -231,7 +231,6 @@ dong
 dua
 dulu
 empat
-enggak
 enggaknya
 entah
 entahlah
@@ -994,7 +993,6 @@ dulu
 e
 empat
 enak
-enggak
 enggaknya
 entah
 entahlah
