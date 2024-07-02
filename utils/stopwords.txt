@@ -65,7 +65,6 @@ bekerja
 belakang
 belakangan
 belumlah
-benar
 benarkah
 benarlah
 berada
@@ -116,7 +115,6 @@ biasa
 biasanya
 bila
 bilakah
-bisa
 bisakah
 boleh
 bolehkah
@@ -129,9 +127,6 @@ bulan
 bung
 cara
 caranya
-cukup
-cukupkah
-cukuplah
 cuma
 dahulu
 dalam
@@ -231,7 +226,6 @@ dong
 dua
 dulu
 empat
-enggaknya
 entah
 entahlah
 guna
@@ -275,7 +269,6 @@ jauh
 jawab
 jawaban
 jawabnya
-jelas
 jelaskan
 jelaslah
 jelasnya
@@ -823,7 +816,6 @@ bekerja
 belakang
 belakangan
 belumlah
-benar
 benarkah
 benarlah
 berada
@@ -992,7 +984,6 @@ dua
 dulu
 e
 empat
-enak
 enggaknya
 entah
 entahlah
@@ -1753,6 +1744,8 @@ dlu
 ny
 rrrrrr
 woyyyyy
+wkwkwk
+wkwkwkwk
 go
 dah
 jgan
@@ -1849,7 +1842,6 @@ ggh
 ama
 sj
 woooy
-juaraaa
 smuwa
 sik
 mba
